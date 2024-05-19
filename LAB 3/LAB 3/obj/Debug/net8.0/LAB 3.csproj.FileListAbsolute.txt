@@ -1,0 +1,4 @@
+D:\Visual Sudio\LAB 3\LAB 3\obj\Debug\net8.0\LAB 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Sudio\LAB 3\LAB 3\obj\Debug\net8.0\LAB 3.AssemblyInfoInputs.cache
+D:\Visual Sudio\LAB 3\LAB 3\obj\Debug\net8.0\LAB 3.AssemblyInfo.cs
+D:\Visual Sudio\LAB 3\LAB 3\obj\Debug\net8.0\LAB 3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\Visual Sudio\LAB 3\BAI 2\bin\Debug\net8.0\BAI 2.exe
+D:\Visual Sudio\LAB 3\BAI 2\bin\Debug\net8.0\BAI 2.deps.json
+D:\Visual Sudio\LAB 3\BAI 2\bin\Debug\net8.0\BAI 2.runtimeconfig.json
+D:\Visual Sudio\LAB 3\BAI 2\bin\Debug\net8.0\BAI 2.dll
+D:\Visual Sudio\LAB 3\BAI 2\bin\Debug\net8.0\BAI 2.pdb
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\BAI 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\BAI 2.AssemblyInfoInputs.cache
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\BAI 2.AssemblyInfo.cs
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\BAI 2.csproj.CoreCompileInputs.cache
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\BAI 2.dll
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\refint\BAI 2.dll
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\BAI 2.pdb
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\BAI 2.genruntimeconfig.cache
+D:\Visual Sudio\LAB 3\BAI 2\obj\Debug\net8.0\ref\BAI 2.dll
